@@ -4,3 +4,5 @@ Total 22 years of data collected, data for rianfall, evapotranspiration, soilmoi
 First the preprocessing applied on data and all null values are removed and exploratoray analysis done to understand the rainfall and discharge trends. 
 The model for Random forest, Gradient Boost, XGBOOST, and SVM developed 
 Finally the model evaluated using R2, RMSE, MAE, PBias, NSE. 
+The plot for observed vs predicted plotted. 
+
