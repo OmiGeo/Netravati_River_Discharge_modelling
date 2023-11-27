@@ -1,8 +1,2 @@
 # Netravati_River_Discharge_modelling
-In this project a regression based model created for discharge prediction of Netravati river basin. 
-Total 22 years of data collected, data for rianfall, evapotranspiration, soilmoisture, riverdischare, relative humidity is collected from different sources. 
-First the preprocessing applied on data and all null values are removed and exploratoray analysis done to understand the rainfall and discharge trends. 
-The model for Random forest, Gradient Boost, XGBOOST, and SVM developed 
-Finally the model evaluated using R2, RMSE, MAE, PBias, NSE. 
-The plot for observed vs predicted plotted. 
-
+This project involved building a robust regression model for predicting the discharge of the Netravati River basin. A total of 22 years of data was collected, including rainfall, evapotranspiration, soil moisture, river discharge, and relative humidity from diverse sources. The data underwent rigorous preprocessing, and all null values were eliminated. Exploratory analysis was carried out to identify the trends in rainfall and discharge. We developed models using Random Forest, Gradient Boost, XGBOOST, and SVM. We evaluated the model using R2, RMSE, MAE, PBias, and NSE and plotted the observed vs predicted graph. Our model is highly accurate and reliable, and we are confident in its ability to predict discharge effectively.
